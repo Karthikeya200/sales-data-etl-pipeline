@@ -1,6 +1,6 @@
 # Sales Data ETL Pipeline
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline built using Python, Pandas, and SQLite.
 
@@ -8,7 +8,7 @@ The pipeline processes sales data, performs data transformation, loads the proce
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -19,7 +19,7 @@ The pipeline processes sales data, performs data transformation, loads the proce
 
 ---
 
-## 🔄 ETL Process
+##  ETL Process
 
 ### 1. Extract
 
@@ -40,7 +40,7 @@ The transformed data is loaded into a SQLite database using Python.
 
 ---
 
-## 📊 SQL Analysis
+##  SQL Analysis
 
 The following analysis was performed:
 
@@ -51,7 +51,7 @@ The following analysis was performed:
 
 ---
 
-## 💻 Project Structure
+##  Project Structure
 
 ```text
 sales-data-etl-pipeline/
